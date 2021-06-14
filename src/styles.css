@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Header {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 16px;
+
+  position: absolute;
+  height: 27px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+
+  background: #001529;
+  /* border & divider / divider ↓ */
+
+  box-shadow: inset 0px -1px 0px #f0f0f0;
+}
